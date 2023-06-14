@@ -1,0 +1,23 @@
+[
+    {
+        "position": "top",
+        "label": "your potential",
+        "description": "This card represents what might be, what you could manifest, good or bad."
+    },{
+        "position": "left",
+        "label": "your past",
+        "description": "This card represents something from your past that is now showing up in your present, something hidden inside of you."
+    },{
+        "position": "right",
+        "label": "your future",
+        "description": "This card is represents the future of what will happen, or what could happen."
+    },{
+        "position": "center",
+        "label": "your present",
+        "description": "This card represents is where you are at right now, or where you perceive yourself to be."
+    },{
+        "position": "bottom",
+        "label": "your reason",
+        "description": "This card represents something that drives you or holds you back; your excuses, or your passions."
+    }
+]
